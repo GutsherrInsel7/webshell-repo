@@ -3,7 +3,7 @@
     {
       "name": "greet",
       "type": "js",
-      "url": "https://example.com/greet.js",
+      "url": "https://raw.githubusercontent.com/mosstuff/webshell-repo/refs/heads/main/software/greet.js",
       "command": "greet",
       "help": "Prints a greeting message."
     },
