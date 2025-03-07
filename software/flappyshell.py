@@ -28,9 +28,9 @@ async def main():
     bird_x = 5
     bird_y = board_height // 2
     velocity = 0
-    gravity = 0.8
+    gravity = 0.6
     # Reduced jump strength for a less aggressive flap.
-    flap_strength = -2
+    flap_strength = -1
 
     # Pipe settings.
     pipes = []  # Each pipe is a dict with keys 'x' and 'gap_y'
