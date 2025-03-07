@@ -122,7 +122,7 @@ async def main():
     # Remove the keydown event listener.
     document.removeEventListener("keydown", keydown_proxy)
 
-    return f"Final Score: {score}"
+    print(f"Final Score: {score}")
 
 # Schedule the main game loop as a task.
 asyncio.create_task(main())
