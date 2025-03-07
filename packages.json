@@ -13,6 +13,13 @@
       "url": "https://raw.githubusercontent.com/mosstuff/webshell-repo/refs/heads/main/software/py_greet.py",
       "command": "pygreet",
       "help": "Greets you, but it's Python!"
+    },
+    {
+      "name": "flappyshell",
+      "type": "python",
+      "url": "https://raw.githubusercontent.com/mosstuff/webshell-repo/refs/heads/main/software/flappyshell.py",
+      "command": "flappyshell",
+      "help": "A simple Flappybird clone written using the help of pyodide."
     }
   ]
 }
