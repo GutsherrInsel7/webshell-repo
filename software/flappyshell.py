@@ -1,12 +1,4 @@
 #!/usr/bin/env python
-"""
-winst package metadata:
-    name: flappybird
-    type: python
-    command: flappybird
-    help: A simple text-based Flappy Bird game in Python using Pyodide.
-"""
-
 import asyncio
 import random
 from js import document
